@@ -1,0 +1,508 @@
+#top {
+  margin-left: 360px;
+  text-decoration-line: underline;
+}
+
+#right {
+  margin-left: 612px;
+}
+
+#zag2 {
+  height: 10px;
+}
+
+#four {
+  margin-right: 39px;
+}
+
+#ppp {
+  height: 80px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  height: 10px;
+}
+
+.right {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 28px;
+  display: flex;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  height: 28px;
+  margin-right: 10px;
+}
+
+.menu {
+  font-family: 'Roboto', sans-serif;
+  margin-left: 52px;
+  font-size: 24px;
+  line-height: 28px;
+  height: 28px;
+  margin-top: 28px;
+}
+
+.head {
+  overflow: hidden auto;
+  height: 1080px;
+  width: 1920px;
+  border-left: 0px;
+  background-image: url("Rectangle 43.png");
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  display: flex;
+  height: 100px;
+  max-width: 1920px;
+  border: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Cappadocia {
+  margin-top: 252px;
+  font-size: 250px;
+  line-height: 334px;
+  font-style: normal;
+  font-weight: normal;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1074px;
+  font-family: "Balqis";
+}
+
+.tour {
+  font-family: 'Kalam';
+  font-style: italic;
+  margin-top: -70px;
+  font-weight: 300px;
+  font-size: 56px;
+  line-height: 66px;
+  word-wrap: normal;
+  margin-left: 900px;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 214px;
+  margin-bottom: 0px;
+  height: 960px;
+  max-width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Fairy_h {
+  font-family: "Balqis";
+  height: 200px;
+  weight: 1920px;
+  margin-left: 360px;
+  margin-top: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  color: #E2AB3F;
+}
+
+#country {
+  font-family: 'Kalam';
+  font-style: italic;
+  height: 0px;
+  font-size: 24px;
+  line-height: 28px;
+  margin-left: 181px;
+  margin-top: -20px;
+  color: black;
+}
+
+.img1 {
+  flex-direction: row;
+}
+
+.text1 {
+
+  font-family: Roboto Condensed;
+font-style: normal;
+  margin-left: 55px;
+  margin-right: 300px;
+  margin-top: 37px;
+  width: auto;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 21px;
+}
+
+.sad {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.container3 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 360px;
+  weight: 600px;
+}
+
+.cont {
+  height: 960px;
+  max-width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 214px;
+  margin-bottom: 0px;
+}
+
+.trip {
+  font-family: "Balqis";
+  font-weight: normal;
+  font-size: 96px;
+  line-height: 128px;
+  width: 330px;
+  color: #E2AB3F;
+}
+
+#marsh {
+  font-family: 'Kalam';
+  font-style: italic;
+  height: 0px;
+  font-size: 24px;
+  line-height: 28px;
+  margin-left: 250px;
+  margin-top: -20px;
+  color: black;
+}
+
+#t2 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 90px;
+  width: 600px;
+  height: 960px;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+#imgtrip {
+  margin-top: -110px;
+}
+
+.button {
+  border: 2px solid #E2AB3F;
+  margin-top: 50px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  padding-left: 54px;
+  padding-right: 45px;
+  width: 173px;
+}
+
+.container4 {
+  display: flex;
+  margin-top: 203px;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction: column;
+}
+
+.Hotel {
+  font-family: "Balqis";
+  height: 200px;
+  weight: 1920px;
+  margin-left: 190px;
+  margin-top: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  color: #E2AB3F;
+}
+.Photogalary{
+  margin-top: 45px;
+  flex-direction: row;
+}
+.imgG{
+  margin-right: 45px;
+}
+
+#hot {
+  font-family: 'Kalam';
+  font-style: italic;
+  height: 0px;
+  font-size: 24px;
+  line-height: 28px;
+  margin-left: 148px;
+  margin-top: -20px;
+  color: black;
+}
+
+#t3 {
+  margin-top: 0;
+  margin-left: 100px;
+  font-weight: 300;
+  line-height: 21px;
+  width: 670px;
+  max-height: 100%;
+
+}
+
+.exl {
+  width: 100%;
+  height: 66px;
+  margin-left: 1015px;
+  margin-top: 516px;
+  font-family: 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 300px;
+  font-size: 56px;
+  line-height: 66px;
+  color: #000000;
+}
+
+.conter {
+  display: flex;
+  width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction: column;
+}
+
+.price {
+  color: #E2AB3F;
+  font-family: "Balqis";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  width: 100%;
+}
+
+.usl {
+  font-family: 'Kalam';
+  font-style: italic;
+  height: 0px;
+  font-size: 24px;
+  line-height: 28px;
+  margin-left: 110px;
+  margin-top: -20px;
+  color: black;
+}
+
+.TXT {
+  display: flex;
+  flex-direction: row;
+}
+
+.TXT2 {
+  width: 1300px;
+  display: flex;
+  flex-direction: row;
+}
+
+.txt {
+  margin-top: 100px;
+  flex-direction: column;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+h3 {
+  margin-bottom: 50px;
+}
+
+.txt2 {
+  margin-top: 100px;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 70px;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.balloon1 {
+  width: auto;
+  margin-left: 20px;
+  margin-top: 152px;
+  width: auto;
+}
+
+.balloon2 {
+  width: auto;
+  margin-left: 20px;
+  margin-top: 349px;
+  margin-right: -60px;
+}
+
+.balloon3 {
+  margin-right: 0px;
+  width: auto;
+  margin-left: 20px;
+}
+
+.conter2 {
+  display: flex;
+  width: 1300px;
+  height: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction: column;
+}
+
+.date {
+  font-family: "Balqis";
+  margin-left: 200px;;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  width: auto;
+  color: #E2AB3F;
+}
+
+.rus {
+  font-family: 'Kalam';
+  font-style: italic;
+  margin-left: auto;
+  margin-right: ;
+  height: 0px;
+  font-size: 24px;
+  line-height: 28px;
+  margin-left: 190px;
+  margin-top: -10px;
+  color: black;
+}
+
+.dol {
+  color: #E2AB3F;
+  font-family: "Balqis";
+  margin-left: 350px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  margin-top: 52px;
+  width: auto;
+}
+
+.r {
+  font-family: 'Kalam';
+  font-style: italic;
+  margin-left: auto;
+  margin-right: 201px;
+  height: 0px;
+  font-size: 24px;
+  line-height: 28px;
+  margin-left: 148px;
+  margin-top: -20px;
+  color: black;
+  width: auto;
+}
+
+.for__item {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  height: 50px;
+  width: 383px;
+  padding-left: 25px;
+  font-size: 15px;
+  border: 2px solid #E2AB3F;
+}
+
+.za {
+  font-size: 24px;
+  line-height: 28px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin-top: 128px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page {
+  margin-top: 201px;
+  display: flex;
+  flex-direction: row;
+  display: flex;
+  width: 1300px;
+  height: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.button2 {
+  margin-top: 25px;
+  font-family: 'Roboto';
+  font-size: 24px;
+  line-height: 28px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #E2AB3F;
+  padding-top: 12px;
+  padding-bottom: 10px;
+  padding-left: 60px;
+  padding-right: 15px;
+  height: 35px;
+  width: 280px;
+}
+
+.zay {
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.end {
+  width: 1920px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@font-face {
+  font-family: "Balqis";
+  src: url("Balqis.ttf");
+}
+
+@font-face {
+  font-family: "Balqis";
+  src: url("Balqis.ttf");
+}
+
+@font-face {
+  font-family: 'GreatVibes-Regular';
+  src: url("GreatVibes-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'DancingScript-SemiBold';
+  src: url("DancingScript-SemiBold.ttf");
+}
